@@ -78,4 +78,4 @@ Like the human brain, Edyant systems integrate perception, memory, values, and i
 
 *Intelligence with accountability. By design.*
 
-[Edyant Labs](https://github.com/edyant)
+[Edyant](https://edyant.com/)
