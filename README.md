@@ -1,8 +1,6 @@
 # Edyant Labs
 ![Profile Views](https://komarev.com/ghpvc/?username=edyant&color=00D4FF&style=for-the-badge)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/edyantlabs)
-
 **Open-source research for embodied AI in the physical world.**
 
 ## About
