@@ -1,5 +1,5 @@
 # Edyant Labs
-![Profile Views](https://komarev.com/ghpvc/?username=edyant&color=00D4FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=edyantlabs&color=00D4FF&style=for-the-badge)
 
 **Open-source research for embodied AI in the physical world.**
 
