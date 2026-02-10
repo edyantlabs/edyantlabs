@@ -1,9 +1,11 @@
-# Edyant
+# Edyant Labs
 ![Profile Views](https://komarev.com/ghpvc/?username=edyant&color=00D4FF&style=for-the-badge)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/edyantlabs)
 
 **Open-source research for embodied AI in the physical world.**
 
-## About Edyant Labs
+## About
 Edyant Labs is the open-source arm of Edyant, focused on embodied AI and for real-world robotics. We build research-grade frameworks that keep responsible AI grounded in context, consequences, and human needs.
 
 Our work targets human-robot interaction where perception, memory, and ethics shape safe behavior in physical environments. We publish frameworks, benchmarks, and experiments so others can test, extend, and build on this work collaboratively.
