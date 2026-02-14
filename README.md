@@ -4,7 +4,7 @@
 **Open-source research for responsible AI frameworks in the real world.**
 
 ## About
-Edyant Labs is the open-source arm of Edyant, focused on responsible AI frameworks for real-world systems. We build research-grade frameworks that keep AI grounded in context, consequences, and human needs.
+Edyant Labs is an all-IITians-led open initiative dedicated to advancing next generation of AI systems. We focus on responsible AI frameworks for real-world systems. We build research-grade frameworks and benchmarks that keep AI grounded in context, consequences, and human needs.
 
 Our work targets human-AI interaction where perception, memory, and ethics shape safe behavior in complex environments. We publish frameworks, benchmarks, and experiments so others can test, extend, and build on this work collaboratively.
 
